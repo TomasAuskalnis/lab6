@@ -1,0 +1,1 @@
+gh api repos/TomasAuskalnis/lab6/collaborators
