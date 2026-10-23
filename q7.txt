@@ -1,0 +1,1 @@
+gh pr create --title "merge Q123456 to main" --assignee "@me" --base "merge to main" --base "main"
